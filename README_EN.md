@@ -92,8 +92,8 @@ Additionally, this mod strictly complies with the [Minecraft End User License Ag
 ## 📞 Contact Information
 
 - **Author**: Deplayer
-- **Email**: deplayer@example.com
-- **GitHub Issues**: [Submit issue reports](https://github.com/yourusername/your-repo/issues)
+- **Email**: deplayer515@hotmail.com
+- **GitHub Issues**: [Submit issue reports](https://github.com/deplayeris/faleui/issues)
 
 ## 🙏 Acknowledgements
 

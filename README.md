@@ -93,8 +93,8 @@ copies or substantial portions of the Software.
 ## 📞 联系方式
 
 - **作者**: Deplayer
-- **邮箱**: deplayer@example.com
-- **GitHub Issues**: [提交问题报告](https://github.com/yourusername/your-repo/issues)
+- **邮箱**: deplayer515@hotmail.com
+- **GitHub Issues**: [提交问题报告](https://github.com/deplayeris/faleui/issues)
 
 ## 🙏 致谢
 
