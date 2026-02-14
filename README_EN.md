@@ -7,7 +7,7 @@
 <br>A Minecraft UI library mod based on Fabric, providing developers with powerful interface creation tools.
 
 ## 🎯 Features
-To be supplemented...
+This mod does not have any particularly outstanding features; it mainly simplifies some of the more tedious UI development tasks through encapsulation. However, it also includes certain optimizations and advanced functionalities, aiming to make UI development as straightforward as possible. Users can create their own UI textures and styles, but if they choose not to design them and only create the UI, the default Minecraft style will be used.
 
 ## 📦 Installation Guide
 
