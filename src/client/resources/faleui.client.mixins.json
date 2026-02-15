@@ -3,7 +3,8 @@
 	"package": "mod.deplayer.faleui.mixin.client",
 	"compatibilityLevel": "JAVA_25",
 	"client": [
-		"ExampleClientMixin"
+		//请将下面的你要查看的效果的对应项（在双引号里面的文本）前面的两个斜杠（//）删除，然后请回到文档1
+		//"TitleScreenMixin" // 在这里添加使用注册类
 	],
 	"injectors": {
 		"defaultRequire": 1

@@ -1,3 +1,5 @@
 {
-  "item.faleui.faleuihasbeeninstalled": "faleUI exists when you can normally obtain this item in Creative Mode."
+  "item.faleui.faleuihasbeeninstalled": "faleUI exists when you can normally obtain this item in Creative Mode.",
+  "key.faleui.open_config": "Open faleUI Config Screen",
+  "category.faleui.example": "faleUI Examples"
 }

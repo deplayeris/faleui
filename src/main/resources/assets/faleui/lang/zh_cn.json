@@ -1,3 +1,5 @@
 {
   "item.faleui.faleuihasbeeninstalled": "faleUI存在性验证。当您能在创造模式正常获取此物品时，faleUI存在",
+  "key.faleui.open_config": "打开faleUI配置界面",
+  "category.faleui.example": "faleUI示例"
 }
