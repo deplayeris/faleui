@@ -24,9 +24,10 @@ jobs:
         java-version: '25'
         distribution: 'temurin'
         
-    - name: Grant execute permission to gradlew
-      run: chmod +x ./gradlew --gradle-distribution-url=https://services.gradle.org/distributions/gradle-9.2.1-bin.zip build
-
+    - name: Setup Gradle
+      uses: gradle/actions/setup-gradle@v3
+      env:
+        GRADLE_DISTRIBUTION_URL: https://services.gradle.org/distributions/gradle-9.2.1-bin.zip
 
     - name: Build with Gradle
       run: ./gradlew build
