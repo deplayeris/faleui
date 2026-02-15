@@ -25,8 +25,9 @@ jobs:
         distribution: 'temurin'
         
     - name: Grant execute permission to gradlew
-      run: chmod +x ./gradlew
-      
+      run: chmod +x ./gradlew --gradle-distribution-url=https://services.gradle.org/distributions/gradle-9.2.1-bin.zip build
+
+
     - name: Build with Gradle
       run: ./gradlew build
       
